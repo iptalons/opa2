@@ -1,0 +1,5 @@
+{
+  "name": "OpenAlex Topic Trends & Expert Finder",
+  "description": "An interactive dashboard to explore academic research trends, discover top authors, and analyze collaboration networks using the OpenAlex API.",
+  "requestFramePermissions": []
+}
